@@ -1,5 +1,3 @@
-### README.md برای پروژه تشخیص اعداد دست‌نویس (Digit Recognition)
-
 ```markdown
 # Handwritten Digit Recognition (Phase 1)
 
