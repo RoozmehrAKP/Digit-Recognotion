@@ -1,4 +1,4 @@
-```markdown
+
 # Handwritten Digit Recognition
 
 ## Overview
