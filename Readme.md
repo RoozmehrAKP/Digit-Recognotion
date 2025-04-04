@@ -105,9 +105,4 @@ pip install numpy scikit-learn matplotlib seaborn
 - **Dataset**: `load_digits` from `sklearn.datasets`.
 - **Libraries**: scikit-learn, matplotlib, seaborn.
 
----
 
-## Author
-This phase of the project was implemented as a foundational step in building a comprehensive handwritten digit recognition system.
-
----
