@@ -1,5 +1,5 @@
 ```markdown
-# Handwritten Digit Recognition (Phase 1)
+# Handwritten Digit Recognition
 
 ## Overview
 This project focuses on recognizing handwritten digits (0-9) using the `load_digits` dataset from `sklearn`. The dataset consists of 8x8 pixel grayscale images of digits, and the goal is to classify these digits accurately using machine learning techniques.
@@ -94,9 +94,9 @@ pip install numpy scikit-learn matplotlib seaborn
    git clone <repository_url>
    cd <repository_name>
    ```
-2. Run the Python script:
+2. Run the notebook with Python:
    ```bash
-   python Alpha.ipynb
+   Alpha.ipynb
    ```
 
 ---
